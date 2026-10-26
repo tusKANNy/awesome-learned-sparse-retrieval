@@ -353,6 +353,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*A Python Toolkit for Efficient RAG Research.*
 - [PyTerrier](https://github.com/terrier-org/pyterrier) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*A Python framework for performing information retrieval experiments (supporting PISA and BMP).*
 - [PISA](https://github.com/pisa-engine/pisa/) <img src="images/cpp-logo.svg" height="20" alt="C++"/><br>*A modular C++ inverted index and query processing framework supporting many compression codecs and dynamic pruning algorithms.*
+- [sqlite-sparse](https://github.com/arbazsiddiqui/sqlite-sparse) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*SQLite extension for learned sparse retrieval. Documents are encoded at insert by an inference-free encoder and stored as posting lists in the database file; queries are scored by exact scatter-add with no model or server.*
 
 
 
