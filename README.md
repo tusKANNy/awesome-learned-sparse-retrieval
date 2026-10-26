@@ -165,6 +165,21 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Adaptive Sparsity Optimization with Learnable Soft Top-K and Per-Term Thresholding for Efficient Retrieval*<br>
   Wentai Xie, Parker Carlson, Shanxiu He, Tao Yang<br>
   SIGIR, 2026<br> 📄 [paper](https://dl.acm.org/doi/abs/10.1145/3805712.3809625)
+- *PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval*<br>
+  Matteo Attimonelli, Alessandro De Bellis, Franco Maria Nardini, Claudio Pomo, Cosimo Rulli, Rossano Venturini, Tommaso Di Noia<br>
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2608.25780)
+- *Inference-Free Multimodal Learned Sparse Retrieval for Production-Scale Visual Document Search*<br>
+  Gyu-Hwung Cho, Youngjune Lee, Kiyoon Jeong, Siyoung Lee, Sanggyu Han, Hervé Déjean, Stéphane Clinchant, Seung-won Hwang<br>
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2605.30917) | 🛠️ [code](https://github.com/naver/v-splade)
+- *LSNR: Learned Sparse News Recommendations with Attentive User Modeling*<br>
+  David Vos, Andrew Yates, Maarten de Rijke<br>
+  SIGIR-AP, 2026<br> 📄 [paper](https://arxiv.org/abs/2610.23510)
+- *Aligning LLMs with Sparse Retrieval via Adaptive Sparse Supervision*<br>
+  Tongna Chen, Minghan Li, Guodong Zhou<br>
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2610.21877)
+- *Rescaling MLM-Head for Neural Sparse Retrieval*<br>
+  Youngjoon Jang, Seongtae Hong, Jonah Turner, Heuiseok Lim<br>
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2606.18811)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
@@ -274,10 +289,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   Vihan Lakshman, Blaise Munyampirwa, Julian Shun, Benjamin Coleman<br>
   CoRR, 2025<br>
   📄 [paper](https://arxiv.org/abs/2512.12458)
-- *Efficiency Optimizations for Superblock-based Sparse Retrieval*<br>
+- *Efficient Sparse Retrieval with Lightweight Superblock Pruning*<br>
   Parker Carlson, Wentai Xie, Rohil Shah, Tao Yang<br>
-  CoRR, 2026<br>
-  📄 [paper](https://arxiv.org/abs/2602.02883)
+  SIGIR, 2026<br>
+  📄 [paper](https://doi.org/10.1145/3805712.3809739)
 - *Evaluating the Efficiency and Effectiveness of Learned Sparse Retrieval with the lsr_benchmark*<br>
   Maik Fröbe, Ferdinand Schlatt, Cosimo Rulli, Tim Hagen, Jan Heinrich Merker, Gijs Hendriksen, Carlos Lassance, Franco Maria Nardini, Rossano Venturini, Martin Potthast<br>
   ECIR, 2026<br>
@@ -298,6 +313,26 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   Parker Carlson, Sammy Lesner, Antonio Mallia, Tao Yang<br>
   SIGIR, 2026<br>
   📄 [paper](https://dl.acm.org/doi/abs/10.1145/3805712.3809971)
+- *Compact and Efficient Indexes for Learned Sparse Retrieval*<br>
+  Franco Maria Nardini, Luca Rizzo, Cosimo Rulli, Rossano Venturini<br>
+  ICDE, 2027<br>
+  📄 [paper](https://arxiv.org/abs/2610.12300) | 🛠️ [code](https://github.com/TusKANNy/seismic)
+- *Two Indexes, One Foundation: kANNolo and Seismic for Efficient Learned Sparse Retrieval at SISAP 2026*<br>
+  Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
+  SISAP, 2026<br>
+  📄 [paper](https://doi.org/10.1007/978-3-032-42224-8_36)
+- *RISE: A Rust Library for Inverted Index Search Engines*<br>
+  Angelo Savino, Rossano Venturini<br>
+  CoRR, 2026<br>
+  📄 [paper](https://arxiv.org/abs/2606.07187)
+- *Static Pruning Across Sparse Retrieval Regimes: What Transfers, What Breaks, and What Still Helps*<br>
+  Zirui Song, Yuye Zhu, Yang Yang<br>
+  CoRR, 2026<br>
+  📄 [paper](https://arxiv.org/abs/2608.16309)
+- *InvertedBlock Indexing for Learned Sparse MIPS*<br>
+  Roger Canal Estrada<br>
+  SISAP, 2026<br>
+  📄 [paper](https://doi.org/10.1007/978-3-032-42224-8_30)
 
 ### Tutorials
 - [Neural Lexical Search with Learned Sparse Retrieval: SIGIR 2024, 2025, and ECIR 2026](https://lsr-tutorial.github.io/)
