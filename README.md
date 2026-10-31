@@ -180,6 +180,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Rescaling MLM-Head for Neural Sparse Retrieval*<br>
   Youngjoon Jang, Seongtae Hong, Jonah Turner, Heuiseok Lim<br>
   CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2606.18811)
+- *Introducing SPARSEUP by Linkup Research: a move towards more competitive open sparse models*<br>
+  Thibault Formal, Pierre Erbacher, Cosimo Rulli<br>
+  Linkup Blog, 2026<br> 📄 [blog](https://www.linkup.so/blog/introducing-sparseup-by-linkup) | 🤗 [model](https://huggingface.co/Linkup-Platform/linkup-sparseup-embed-v1)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
@@ -333,6 +336,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   Roger Canal Estrada<br>
   SISAP, 2026<br>
   📄 [paper](https://doi.org/10.1007/978-3-032-42224-8_30)
+- *Lossless Compression of Proximity Graph Indexes for Efficient Approximate Nearest Neighbors Search*<br>
+  Francesco Benocci, Leonard Dahlmann, Francesco Gargiulo, Tobias Heuer, Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
+  CIKM, 2026<br>
+  📄 [paper](https://arxiv.org/abs/2610.37176) | 🛠️ [code](https://github.com/TusKANNy/kannolo)
 
 ### Tutorials
 - [Neural Lexical Search with Learned Sparse Retrieval: SIGIR 2024, 2025, and ECIR 2026](https://lsr-tutorial.github.io/)
