@@ -180,9 +180,12 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Rescaling MLM-Head for Neural Sparse Retrieval*<br>
   Youngjoon Jang, Seongtae Hong, Jonah Turner, Heuiseok Lim<br>
   CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2606.18811)
-- *Introducing SPARSEUP by Linkup Research: a move towards more competitive open sparse models*<br>
+- *SPARSEUP: Towards Better Recipes for Training Modern Learned Sparse Retrievers*<br>
   Thibault Formal, Pierre Erbacher, Cosimo Rulli<br>
-  Linkup Blog, 2026<br> 📄 [blog](https://www.linkup.so/blog/introducing-sparseup-by-linkup) | 🤗 [model](https://huggingface.co/Linkup-Platform/linkup-sparseup-embed-v1)
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2611.09680) | 📝 [blog](https://www.linkup.so/blog/introducing-sparseup-by-linkup) | 🤗 [model](https://huggingface.co/Linkup-Platform/linkup-sparseup-embed-v1)
+- *On the Challenges and Opportunities of Learned Sparse Retrieval for Code*<br>
+  Simon Lupart, Maxime Louis, Thibault Formal, Hervé Déjean, Stéphane Clinchant<br>
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2603.22008)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
@@ -340,6 +343,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   Francesco Benocci, Leonard Dahlmann, Francesco Gargiulo, Tobias Heuer, Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   CIKM, 2026<br>
   📄 [paper](https://arxiv.org/abs/2610.37176) | 🛠️ [code](https://github.com/TusKANNy/kannolo)
+- *Modular and Efficient Approximate Nearest Neighbors Search with Vectorium and kANNolo*<br>
+  Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
+  CoRR, 2026<br>
+  📄 [paper](https://arxiv.org/abs/2611.03927) | 🛠️ [code](https://github.com/TusKANNy/vectorium)
 
 ### Tutorials
 - [Neural Lexical Search with Learned Sparse Retrieval: SIGIR 2024, 2025, and ECIR 2026](https://lsr-tutorial.github.io/)
